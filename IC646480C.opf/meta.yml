@@ -1,0 +1,36 @@
+id: IC646480C
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T02:31:38.783868'
+last_modified: '2022-06-19T02:31:38.783886'
+parser: null
+source_metadata:
+  title: sTag tshang lo tsā bas Sakya Genealogy
+  author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2012-09); revision
+    in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Rime Centre Moscow, OCR-processed, Kunga Dorje (Kathmandu) (kun)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Kunga Dorje (kun), Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/408
+  bases:
+    f8f8:
+      title: sTag tshang lo tsā bas Sakya Genealogy
+      order: 1
+      base_file: f8f8.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
